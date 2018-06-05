@@ -4,6 +4,8 @@ Ideas
     - IT
     - Science
     - Motivation
+    - Others 
+
 - Novel
     - Hacking
     - History
