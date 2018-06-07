@@ -1,2 +1,4 @@
 This is a scratch file
 scratch file can be edit from anywhere 
+and it can be merged with changes from desktop
+
